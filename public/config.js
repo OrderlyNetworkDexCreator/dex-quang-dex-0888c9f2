@@ -38,7 +38,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
-  "VITE_ORDERLY_THEME_CONFIG": "[{\"id\":\"00000000-0000-4000-8000-000000000001\",\"displayName\":\"Default\",\"mode\":\"dark\",\"isDefault\":true}]",
+  "VITE_ORDERLY_THEME_CONFIG": "[{\"id\":\"00000000-0000-4000-8000-000000000001\",\"displayName\":\"Default\",\"mode\":\"dark\",\"cssVars\":{\"--oui-color-link\":\"4 40 78\",\"--oui-color-primary\":\"13 166 231\",\"--oui-color-primary-light\":\"20 26 210\",\"--oui-color-primary-darken\":\"20 39 184\",\"--oui-gradient-primary-end\":\"5 9 66\",\"--oui-gradient-primary-start\":\"16 13 206\"},\"isDefault\":true}]",
   "VITE_ANALYTICS_SCRIPT": "{}",
   "VITE_ANALYTICS_CONFIG": "",
   "VITE_SYMBOL_LIST": "",

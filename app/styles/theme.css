@@ -1,10 +1,10 @@
 :root {
   --oui-font-family: 'Manrope', sans-serif;
-  --oui-color-primary: 176 132 233;
-  --oui-color-primary-light: 213 190 244;
-  --oui-color-primary-darken: 137 76 209;
+  --oui-color-primary: 13 166 231;
+  --oui-color-primary-light: 20 26 210;
+  --oui-color-primary-darken: 20 39 184;
   --oui-color-primary-contrast: 255 255 255;
-  --oui-color-link: 189 107 237;
+  --oui-color-link: 4 40 78;
   --oui-color-link-light: 217 152 250;
   --oui-color-secondary: 255 255 255;
   --oui-color-tertiary: 218 218 218;
@@ -41,8 +41,8 @@
   --oui-color-trading-loss-contrast: 255 255 255;
   --oui-color-trading-profit: 41 233 169;
   --oui-color-trading-profit-contrast: 255 255 255;
-  --oui-gradient-primary-start: 40 0 97;
-  --oui-gradient-primary-end: 189 107 237;
+  --oui-gradient-primary-start: 16 13 206;
+  --oui-gradient-primary-end: 5 9 66;
   --oui-gradient-secondary-start: 81 42 121;
   --oui-gradient-secondary-end: 176 132 233;
   --oui-gradient-success-start: 1 83 68;
