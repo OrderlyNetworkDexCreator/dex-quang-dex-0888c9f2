@@ -26,7 +26,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TELEGRAM_URL": "https://t.me/quang250802",
   "VITE_DISCORD_URL": "",
   "VITE_TWITTER_URL": "https://x.com/quang250802",
-  "VITE_SEO_SITE_NAME": "",
+  "VITE_SEO_SITE_NAME": "Quang Dex",
   "VITE_SEO_SITE_DESCRIPTION": "",
   "VITE_SEO_SITE_URL": "https://dex.orderly.network/dex-quang-dex-0888c9f2/",
   "VITE_SEO_SITE_LANGUAGE": "en",
